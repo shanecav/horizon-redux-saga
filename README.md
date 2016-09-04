@@ -6,12 +6,13 @@ This example is pretty over-engineered for a tiny chat app, but I wanted to stru
 
 ## Installation + Usage
 
-You'll need to have [Horizon](http://horizon.io/install/) installed first.
+(You'll need to have [Horizon](http://horizon.io/install/) installed first)
 
 1. `git clone git@github.com:shanecav/horizon-redux-saga.git`
 2. `cd horizon-redux-saga && npm install`
-3. `hz serve --dev`
-4. In a new terminal in the same directory: `npm start`
+3. `hz init`
+4. `hz serve --dev`
+5. In a new terminal in the same directory: `npm start`
 
 ## Alternatives
 
