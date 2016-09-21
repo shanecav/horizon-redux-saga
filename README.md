@@ -18,7 +18,7 @@ This example is pretty over-engineered for a tiny chat app, but I wanted to stru
 
 If you're looking for a simpler alternative that doesn't depend on redux-saga, you might want to check out my [horizon-redux](https://github.com/shanecav/horizon-redux) library. It's not as powerful as redux-saga, but it's a lot smaller and easier to implement (in my opinion) if your needs are basic.
 
-You can also check out [redux-observable](https://redux-observable.js.org/) if RxJS is more your thing.
+You can also check out [redux-observable](https://redux-observable.js.org/) if RxJS is more your thing - Horizon should integrate really well with it since Collections are RxJS Observables.
 
 ## Feedback
 
